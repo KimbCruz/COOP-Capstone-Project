@@ -11,5 +11,5 @@ Our goal is to deliver a comprehensive overview of the client's marketing effort
 - Conclusion
 
 ## How to View
-To view the presentation, download the **[Ad-venture Time Presentation](https://github.com/KimbCruz/Data-Visualization-project-Restaurant-Violations/blob/main/Data%20Visualization%20project_%20Restaurant%20Violations.pptx)**
+To view the presentation, download the **[Ad-venture Time Presentation](https://github.com/KimbCruz/COOP-Capstone-Project/blob/main/Ad-Venture%20Time%20Capstone%20Presentation.pptx)**
  file from this repository. 
